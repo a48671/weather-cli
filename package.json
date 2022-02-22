@@ -1,6 +1,6 @@
 {
-  "name": "weather",
-  "version": "1.0.0",
+  "name": "weather-cli-faa",
+  "version": "1.0.1",
   "description": "weather cli application",
   "main": "weather.js",
   "bin": {
